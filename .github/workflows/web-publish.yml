@@ -15,4 +15,4 @@ jobs:
     steps:
       - name: Trigger Build Hook
         run: |
-          curl -s -X POST -d '{}' "${{ secrets.NETLIFY_BUILD_HOOK }}"
+          curl -fsS -X POST -d '{}' "${{ secrets.NETLIFY_BUILD_HOOK }}"
