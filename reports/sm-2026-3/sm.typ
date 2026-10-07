@@ -23,14 +23,14 @@ Haft möte där vi fattat beslut kring hur projekt skall hanteras fortsättnings
 
 == Vad har gått mindre bra?
 
-- Det är *fortfarande* att hitta lämpliga tider för aktiviteter och möten, veckorna är för korta och andra evenemang för många
+- Det är *fortfarande* svårt att hitta lämpliga tider för aktiviteter och möten, veckorna är för korta och andra evenemang för många
 - Git-föreläsningen har inte kunnat hållas som tänkt på grund av tidsbrist. Då läsåret lider mot sitt slut beslutades att hålla föreläsningen efter sommaren, när ettan har börjat studera, för att så många som möjligt ska kunna dra nytta av den.
 
 = English
 
 == What has happened since last time?
 
-Had a meeting where we made decisions about how projects will be managed going forward. In short, we have begun to shape a structure for how we ensure the projects' continuity and openness for interested chapter members who want to help out.
+Had a meeting where we made decisions about how projects will be managed going forward. In short, we have begun to shape a structure for how we ensure the projects' continuity and openness to interested chapter members who want to help out.
 
 == Upcoming events
 
@@ -38,7 +38,7 @@ Had a meeting where we made decisions about how projects will be managed going f
 
 == What has gone well?
 
-- Everything that has not gone bad
+- Everything that has not gone badly
 
 == What has gone less well?
 
